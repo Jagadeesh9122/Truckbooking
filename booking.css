@@ -1,0 +1,159 @@
+.lorry-logo{
+    height:80px;
+    width:110px;
+}
+.sections{
+    color:black;
+    font-size:20px;
+    font-weight:bold;
+}
+.interface-bg{
+    background-image:url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1721545889/truck-logistics-operations-dusk_d7zfqg.jpg");
+    background-size:cover;
+    height:650px;
+}
+.interface-txt{
+    color:white;
+    font-size:32px;
+    font-family:'Roboto';
+    font-weight:bold;
+}
+.login{
+    height:50px;
+    width:100px;
+    font-weight:bold;
+    color:black;
+    font-size:18px;
+}
+
+.special-features{
+    background-color:rgb(233, 233, 210);
+    background-size:cover;
+}
+
+.special-features-logo{
+    height:70px;
+    width:90px;
+}
+.loginpage-bg{
+    background-color:lightgoldenrodyellow;
+    background-size:cover;
+}
+.loginpage-heading{
+    font-size:36px;
+    font-family:"Roboto";
+    color:darkslategray;
+    font-weight:bold;
+}
+.logintype-bg{
+    background-color:#d0b2001a;
+    background-size:cover;
+   
+}
+.login-type{
+    color:darkslategray;
+    font-size:28px;
+    font-family:"Roboto";
+}
+.logintype-card{
+    background-color:rgb(215, 221, 228);
+    background-size:cover;
+    width:250px;
+    border-radius:20px;
+}
+.alllogin-bg{
+    background-image:url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1721757770/Screenshot_2024-07-23_233112_e4p8yl.png");
+    background-size:cover;
+    height:100vh;
+    padding-top:200px;
+}
+.alldetails-card{
+    background-color:#00000080;
+    border-radius:20px;
+    width:400px;
+}
+.alldetails-text{
+    color:#959ead;
+    font-size:28px;
+    font-family:"Roboto";
+}
+.contactpage-bg{
+    background-color: #edeef1;
+    background-size:cover;
+    border-radius:10px;
+    
+}
+.follow-us-icon-container {
+    background-color:#959ead;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color:dimgray;
+    font-size: 35px;
+}
+.alltypedetails-bg{
+    background-image:url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1722011604/Screenshot_2024-07-26_220220_klu4co.png");
+    background-size:cover;
+    height:100vh;
+    padding-top:75px;
+}
+.adminstratorpayment-bg{
+    background-image: url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1722169215/new1_fta2wd.jpg");
+    background-size:cover;
+    height:100vh;
+}
+.payment-card{
+    background-color:lemonchiffon;
+    background-size:cover;
+    border-radius:20px;
+    width:700px;
+}
+.insidepayment-card{
+    background-color:white;
+    background-size:cover;
+    border-radius:20px;
+}
+.paymenthead{
+    color:black;
+    font-family:"Roboto";
+    font-size:28px;
+}
+.paymentpara{
+    color:black;
+    font-family:"Roboto";
+    font-size:18px;
+}
+.customerpayment-bg{
+    background-image:url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1722174433/Untitled_Project_3_atmiek.jpg");
+    background-size:cover;
+    height:100vh;
+}
+.agentpayment-bg{
+    background-image:url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1722181255/Web_Photo_Editor_dfo9pp.jpg");
+    background-size:cover;
+    height:100vh;
+}
+.creditpage-bg{
+    background-image:url("https://res.cloudinary.com/dauwn6ihe/image/upload/v1722184206/Untitled_Project_6_adfeyu.jpg");
+    background-size:cover;
+    height:100vh;
+    padding:100px;
+}
+.creditcarddetails-card{
+    background-color:lightgoldenrodyellow;
+    background-size:cover;
+    border-radius:20px;
+}
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
